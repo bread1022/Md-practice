@@ -77,6 +77,16 @@ const calculate = (m) => {
 __매우 중요한거 찐하게__
 
 ~~지웠음~~
+
+`강조`
+
+<br>
+
+## 링크 넣는 방법
+- <https://www.google.com/>
+- 텍스트 안에 링크 넣기 [GOOGLE](https://www.google.com/) 구글링해보세요.
+- 참조링크 [참조 링크 URL][https://www.google.com]
+
 <br>
 
 ## 줄바꿈 방법
