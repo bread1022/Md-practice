@@ -94,4 +94,8 @@ __매우 중요한거 찐하게__
 
 ## 이미지 넣는 방법
 * github issues에서 문자열 형식 받아오기
-![제목_없는_아트워크 5](https://user-images.githubusercontent.com/107349637/203889795-5d202bcb-7d1f-41d1-9835-e4b8688f1cbd.jpg)
+
+
+![output_739210504](https://user-images.githubusercontent.com/107349637/203926664-aea404d1-3e38-4474-9224-648a727123a4.JPG)
+
+H A P P Y ❤︎
