@@ -12,15 +12,15 @@
 
 ## 🗿 코드블럭 생성 방법
 
-### (1) tab*4번, 앞 뒤로 enter 방법
-앞 (enter*1번)
+### (1) 앞 뒤로 ~~~ 넣는 방법
+~~~
     CODE BLOCK
     CODE BLOCK
     CODE BLOCK
-뒤 (enter*1번)
+~~~
 <br>
 
-### (2) ```를 앞뒤로 넣는 방법
+### (2) 앞뒤로 ``` 넣는 방법
 ```
 CODE BLOCK
 CODE BLOCK
